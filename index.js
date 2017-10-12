@@ -1,4 +1,5 @@
-function myAnimal() {
-  var == "dog";
+
+function myAnimal() {}
+var myAnimal = "dog"
   return myAnimal
 }
