@@ -1,0 +1,3 @@
+function myAnimal() {
+  return myAnimal
+}
