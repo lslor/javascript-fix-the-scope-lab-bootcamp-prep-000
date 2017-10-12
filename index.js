@@ -14,10 +14,10 @@ function add2(n) {
 }
 
 function funkyFunction() {
+  funkyFunction = "FUNKY"
   return funkyFunction
 }
 
 function theFunk() {
- theFunk= "FUNKY!";
   return theFunk
 }
