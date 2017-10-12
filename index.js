@@ -16,3 +16,8 @@ function add2(n) {
 function funkyFunction() {
   return funkyFunction
 }
+
+function theFunk {
+  return "FUNKY!"
+}
+
